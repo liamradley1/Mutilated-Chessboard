@@ -1,4 +1,4 @@
-# mutilated-chessboard
+# Mutilated-Chessboard
  - A python program allowing for the visualisation of all possible ways of chopping up a chessboard given set constraints.
 
  - Uses OOP to define a chessboard as a class with variable side length, with methods including those of removing a square and sticking them back in.
